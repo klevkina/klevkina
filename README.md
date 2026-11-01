@@ -1,1 +1,2 @@
 ![](https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=120&text=data%20analyst%20in%20fashion%20retail&fontSize=26&fontColor=0D1117&fontAlignY=42&desc=%23befreepeople&descSize=16&descAlignY=66)
+![](https://img.shields.io/badge/ML-0E7490?style=flat-square) ![](https://img.shields.io/badge/analytics-0E7490?style=flat-square) ![](https://img.shields.io/badge/fashion%20retail-0E7490?style=flat-square) ![](https://img.shields.io/badge/forecasting-0E7490?style=flat-square)
