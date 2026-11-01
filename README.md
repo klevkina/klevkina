@@ -1,3 +1,1 @@
-![](https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=120&text=Ekaterina%20Babich&fontSize=28&fontColor=0D1117&fontAlignY=40&desc=data%20analyst%20in%20fashion-retail&descSize=18&descAlignY=65)
-
-#befreepeople
+![](https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=120&text=data%20analyst%20in%20fashion%20retail&fontSize=26&fontColor=0D1117&fontAlignY=42&desc=%23befreepeople&descSize=16&descAlignY=66)
